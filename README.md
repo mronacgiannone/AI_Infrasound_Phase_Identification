@@ -6,6 +6,7 @@ conda env create -f deep_learning_env.yml
 ## Activate
 To activate:
 source activate deep_learning
+
 To open notebooks:
 jupyter nbclassic&
 ## Data
