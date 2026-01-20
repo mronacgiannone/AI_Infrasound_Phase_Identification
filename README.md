@@ -6,5 +6,7 @@ conda env create -f deep_learning_env.yml
 ## Activate
 To activate:
 source activate deep_learning
+To open notebooks:
+jupyter nbclassic&
 ## Data
 The data used in this study can be found at 10.5281/zenodo.18318050.
