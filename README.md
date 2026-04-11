@@ -2,6 +2,10 @@
 
 The initial notebooks in this repository outline how to read in, preprocess, and visualize the data from McAAP. Following notebooks show how to construct and pre-train InfraCoder. The last notebooks fine-tune and interpret the model's cluster assignments. These approaches are described extensively in the manuscript, "Unsupervised Deep Representation Learning for Infrasound Phase Identification" (in review).
 
+## Cardinal
+
+The Cardinal software package must be installed prior to environment set up. Information on installing Cardinal can be found here: https://github.com/sjarrowsmith/cardinal.git
+
 ## Install and Activate
 
 Navigate to directory and type:
