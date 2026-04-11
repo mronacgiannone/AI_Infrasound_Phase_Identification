@@ -173,4 +173,3 @@ dependencies:
       - tzdata==2026.1
       - utm==0.8.1
       - widgetsnbextension==4.0.15
-prefix: /Users/mronacgiannone/anaconda3/envs/deep_learning
