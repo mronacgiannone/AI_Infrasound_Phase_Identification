@@ -5,9 +5,9 @@
 # Miro Ronac Giannone (mronacgiannone@smu.edu)
 #-----------------------------------------------------------------------------------------------------------------#
 # Import pacakages
-import glob, datetime, warnings, sys, fnmatch, pywt, os, keras
-sys.path.append('/users/mronacgiannone/Documents/Cardinal')
-import cardinal
+import glob, datetime, warnings, sys, fnmatch, pywt, os
+sys.path.append('/Path/to/Cardinal') # NOTE: change to your Cardinal directory location
+# import cardinal # uncomment this line when path is set
 #-----------------------------------------------------------------------------------------------------------------#
 # Import packages as
 import numpy as np
@@ -30,6 +30,7 @@ from sklearn.metrics import accuracy_score, adjusted_rand_score, adjusted_mutual
 # from pyproj import Geod; g = Geod(ellps='sphere') # could not import this properly so g.inv() was also removed in the beamforming code below
 #-----------------------------------------------------------------------------------------------------------------#
 # ML Packages 
+import keras
 import tensorflow as tf
 from keras.utils import *
 from tensorflow.keras import *
