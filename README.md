@@ -14,7 +14,7 @@ Navigate to directory and type:
 
  - source activate deep_learning
 
- - pip install tensorflow==2.18.0
+ - pip install tensorflow==2.18.0 keras==3.8.0
 
 ## Notebooks
 
