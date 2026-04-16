@@ -16,6 +16,8 @@ Navigate to directory and type:
 
  - pip install tensorflow==2.18.0 keras==3.8.0
 
+ - pip install graphviz pydot
+
 ## Notebooks
 
 Navigate to directory and type: 
